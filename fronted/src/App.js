@@ -17,8 +17,8 @@ function App() {
     <Router>
    
      <Navbar></Navbar>
-     <SideDrawer></SideDrawer>
-     <Backdrop></Backdrop>
+  {/* //   <SideDrawer></SideDrawer> */}
+     {/* <Backdrop></Backdrop> */}
     
  <main>
    <Switch>
