@@ -9,7 +9,7 @@ import Navbar from './Component/Navbar';
 import Backdrop from './Component/backdrop';
 import SideDrawer
  from './Component/sideDrawer';
- import Product from './Component/Product';
+
 
 
 function App() {
